@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 chenages made after pushing to main from new  release 2 after pushing to main
-=======
-
-chenages made after pushing to main from new  release 2
-
->>>>>>> 8bcfa6db3af801a15d9055e0300ec0132827aecf
