@@ -1,3 +1,5 @@
 testing, done now pushing it to repo, change again mad ein new
 
 changes made in branch 2 for merge request
+
+changes made to check the GIT SCM
